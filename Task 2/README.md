@@ -20,6 +20,6 @@ The goal is to set up a basic firewall using UFW (Uncomplicated Firewall) on a L
    
 ## 🎬 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/6f3k9V46h-M/0.jpg)](https://youtu.be/ju06AvuvpZw)
+https://github.com/user-attachments/assets/25e83e21-6218-4877-9081-e230b4535157
 
-🔗 [Click here to watch the video on YouTube](https://youtu.be/ju06AvuvpZw)
+
